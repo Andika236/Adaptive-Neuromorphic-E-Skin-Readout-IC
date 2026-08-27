@@ -1,0 +1,34 @@
+﻿
+project:
+  title: "Adaptive-Neuromorphic-E-Skin-Readout-IC"
+  team: "SneakyGolem"
+  discord: "ugie8443, jeanette_25749"
+  description: "Low-Power Adaptive Threshold Neuromorphic Interface for MEMS-Based Electronic"
+  lvs_config: "lvs_config.json"
+
+# ======================================================
+# Pin Data
+# ======================================================
+pins:
+  - name: vdd
+    io_type: power
+  - name: gnd
+    io_type: ground
+  - name: S1
+    io_type: input_cmos
+  - name: S2
+    io_type: input_cmos
+  - name: S1_bar
+    io_type: input_cmos
+  - name: S2_bar
+    io_type: input_cmos
+  - name: Sense_A
+    io_type: input_cmos
+  - name: V_out
+    io_type: bidirectional
+  - name: Vmem
+    io_type: output
+  - name: Vleak
+    io_type: input_cmos
+  - name: Vbiadapt
+    io_type: input_cmos
