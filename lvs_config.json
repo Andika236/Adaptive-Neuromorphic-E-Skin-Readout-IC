@@ -3,7 +3,7 @@
 	"INCLUDE_CONFIGS": [
 		"$LVS_ROOT/tech/$PDK/lvs_config.base.json"
 	],
-	"TOP_SOURCE": "TopFinal",
+	"TOP_SOURCE": "top",
 	"TOP_LAYOUT": "$TOP_SOURCE",
 	"EXTRACT_FLATGLOB": [
 		""
