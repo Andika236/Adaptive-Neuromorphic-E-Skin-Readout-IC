@@ -17,15 +17,21 @@ pins:
     io_type: input_cmos
   - name: SenseA
     io_type: analog
+    secondary_esd: false
   - name: Vbiadapt
     io_type: analog
+    secondary_esd: false
   - name: Vleak
     io_type: analog
+    secondary_esd: false
   - name: Vmem
     io_type: analog
+    secondary_esd: false
   - name: Vadapt
     io_type: analog
+    secondary_esd: false
   - name: ST
     io_type: output_cmos
   - name: Vout
     io_type: analog
+    secondary_esd: false
