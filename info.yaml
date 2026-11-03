@@ -1,7 +1,7 @@
 project:
   title: "Adaptive-Neuromorphic-E-Skin-Readout-IC"
   team: "SneakyGolem"
-  discord: "ugie8443, jeanette_25749"
+  discord: "ugie8443, jeanette"
   description: "Low-Power Adaptive Threshold Neuromorphic Interface for MEMS-Based Electronic"
   lvs_config: "lvs_config.json"
 
