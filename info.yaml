@@ -4,7 +4,7 @@ project:
   discord: "ugie8443, jeanette"
   description: "Low-Power Adaptive Threshold Neuromorphic Interface for MEMS-Based Electronic"
   lvs_config: "lvs_config.json"
-
+  export_control: "Export_Control_GF_Rev8.2.docx"
 # ======================================================
 # Pin Data 
 # ======================================================
